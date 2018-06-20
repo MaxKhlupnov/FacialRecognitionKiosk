@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacialRecognitionDoor", "FacialRecognitionDoor\FacialRecognitionDoor.csproj", "{308386C8-AAB3-416E-89A0-CB22D59E3128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHelpers", "ServiceHelpers\ServiceHelpers.csproj", "{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|Any CPU.Build.0 = Debug|x86
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|Any CPU.Deploy.0 = Debug|x86
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|ARM.ActiveCfg = Debug|ARM
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|ARM.Build.0 = Debug|ARM
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|ARM.Deploy.0 = Debug|ARM
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|x64.ActiveCfg = Debug|x64
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|x64.Build.0 = Debug|x64
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|x64.Deploy.0 = Debug|x64
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|x86.ActiveCfg = Debug|x86
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|x86.Build.0 = Debug|x86
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Debug|x86.Deploy.0 = Debug|x86
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Release|Any CPU.ActiveCfg = Release|x86
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Release|ARM.ActiveCfg = Release|ARM
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Release|ARM.Build.0 = Release|ARM
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Release|ARM.Deploy.0 = Release|ARM
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Release|x64.ActiveCfg = Release|x64
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Release|x64.Build.0 = Release|x64
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Release|x64.Deploy.0 = Release|x64
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Release|x86.ActiveCfg = Release|x86
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Release|x86.Build.0 = Release|x86
+		{308386C8-AAB3-416E-89A0-CB22D59E3128}.Release|x86.Deploy.0 = Release|x86
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Debug|ARM.Build.0 = Debug|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Debug|x64.Build.0 = Debug|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Debug|x86.Build.0 = Debug|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Release|ARM.ActiveCfg = Release|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Release|ARM.Build.0 = Release|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Release|x64.ActiveCfg = Release|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Release|x64.Build.0 = Release|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Release|x86.ActiveCfg = Release|Any CPU
+		{5D9320AF-A9E4-48E3-89BC-9F7F0954B298}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798E2FC6-42DD-4CEC-A962-F1D99D98DB31}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://makhlu.visualstudio.com/
+		SccProjectUniqueName0 = ServiceHelpers\\ServiceHelpers.csproj
+		SccProjectName0 = ServiceHelpers
+		SccLocalPath0 = ServiceHelpers
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = FacialRecognitionDoor\\FacialRecognitionDoor.csproj
+		SccProjectName2 = FacialRecognitionDoor
+		SccLocalPath2 = FacialRecognitionDoor
+	EndGlobalSection
+EndGlobal
